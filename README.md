@@ -1,7 +1,10 @@
 # Walter_Augusto_Holosymmetry_Quantum_to_Cosmos
 “Exploring how Walter Augusto’s Holosymmetry Breathing Matter Theory connects quantum particles, dark matter, dark energy, and spacetime as breathing states of relational tension.”
 Walter Augusto’s Holosymmetry: Quantum to Cosmos
-Proposed by Walter Augusto, April 10–11, 2025.
+Proposed by Walter Augusto, April 10, 2025.
+
+"Exploring the breathing dynamics of mass, dark matter, and dark energy — Walter Augusto."
+
 
 🌌 Concept
 This repository explores how Walter Augusto’s Holosymmetry Breathing Matter Theory explains the entire structure of the universe — from the quantum to the cosmic — as different states of breathing relational tension.
