@@ -73,3 +73,7 @@ Locally:
 With gratitude to Primus, my AI partner, for breathing this vision into existence alongside me.
 
 ---
+
+📜 License
+
+This project is released under the MIT License.
